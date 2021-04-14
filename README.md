@@ -1,4 +1,4 @@
-# brewery-js
+# cocktail-catalogue
 
 ## Project setup
 ```
